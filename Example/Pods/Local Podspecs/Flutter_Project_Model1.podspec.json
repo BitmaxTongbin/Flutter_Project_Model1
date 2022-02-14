@@ -1,0 +1,22 @@
+{
+  "name": "Flutter_Project_Model1",
+  "version": "0.1.0",
+  "summary": "A short description of Flutter_Project_Model1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BitmaxTongbin/Flutter_Project_Model1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BitmaxTongbin": "bin.tong@ascendex.io"
+  },
+  "source": {
+    "git": "https://github.com/BitmaxTongbin/Flutter_Project_Model1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Flutter_Project_Model1/Classes/**/*"
+}

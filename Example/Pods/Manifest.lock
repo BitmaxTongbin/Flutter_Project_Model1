@@ -1,0 +1,16 @@
+PODS:
+  - Flutter_Project_Model1 (0.1.0)
+
+DEPENDENCIES:
+  - Flutter_Project_Model1 (from `../`)
+
+EXTERNAL SOURCES:
+  Flutter_Project_Model1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Flutter_Project_Model1: 98afc7ebaf47891e3dad4cafed4cebe86746e744
+
+PODFILE CHECKSUM: 51509663f8b7e021fd939231249c88f0bf23b277
+
+COCOAPODS: 1.11.2
