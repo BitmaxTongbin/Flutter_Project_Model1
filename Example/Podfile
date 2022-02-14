@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Flutter_Project_Model1_Example' do
+  pod 'Flutter_Project_Model1', :path => '../'
+
+  target 'Flutter_Project_Model1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
